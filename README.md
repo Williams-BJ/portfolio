@@ -4,8 +4,7 @@
 1. [Project Overview](#project-overview)
 2. [Data Source](#data-source)
 3. [Tools](tools)
-4. [Data Cleaning/Preparation](data-cleaning/preparation)
-5. [Exploratory Data Analysis](exploratory-data-analysis)
+4. [Data Preparation](data-preparation)
 6. [Data Analysis](data-analysis)
 
 ### Project Overview
@@ -18,18 +17,18 @@ Data Science Salaries: The primary dataset used for this analysis is "DataScienc
 
 ### Tools
 
-  1. Excel - Data Cleaning
-  2. Jupyter Notebooks - Data Exploration Analysis
+  1. Jupyter Notebooks - Data Exploration Analysis
 
 
-  ### Data Cleaning/Preparation 
+  ### Data Preparation 
 
   I performed the following tasks:
   1. Data Inspection
   2. Finding Missing Values
   3. Data Cleaning
+  4. Exploratory Analysis
 
-### Exploratory Data Analysis
+
 
 
 ### Data Analysis
